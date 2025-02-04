@@ -1,5 +1,5 @@
-# groomcord-uploader
-automate video uploading to groomcord
+# Archiver
+automate video uploading 
 # Wrokflow
 
 part 1:
