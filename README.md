@@ -3,11 +3,11 @@ automate video uploading
 # Wrokflow
 
 part 1:
-automate script to crop videos greater than 8mb into equal sub parts and later delete the original file
+automate script to crop videos greater than 8mb into equal sub parts and later delete the original file  ✔️
 existing file asks the video to be selected, I need to automate that to such that it iterates through the videos by itself  finds the big files and crops it
 
 part 2:
- add a progress bar when croping process is going on for each video
+ add a progress bar when croping process is going on for each video  ✔️ (needs lil improvement)
 
  part 3:
  from a directory in windows all files should be uploaded to discord channel 
