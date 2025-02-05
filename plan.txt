@@ -1,0 +1,13 @@
+gui app which splits videos greater than 8mb into smaller equal parts of less than 8mb 
+has drag and drop feature to upload vieo,
+shows progress bar when pricessing each video 
+it the video processing should use half of the available cpu
+, it had another option to upload the videos in a folder to a discord channel
+
+
+
+gui , to upload videos and images in a discord channel using webhooks
+add option to select folder 
+if a file size of video is greater than 8mb then split the video in smaller parts of less than 8mb of equal time duraion and upload it , after uploading delete the splitted videos
+ video processing should use half of the available cpu
+shows percentage of progress and also write some commands for debugging puropse when pricessing each video
