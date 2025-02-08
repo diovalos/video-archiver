@@ -17,10 +17,10 @@ part 2:
  upload to mega too (automation)
 
  part 5:
- before uploading to discord , write the folder name in which the video is kept and after that upload the video
+ before uploading to discord , write the folder name in which the video is kept and after that upload the video ✔️
 
  part 6: 
- for each video being uploaed add progress bar
+ for each video being uploaed add progress bar ✔️
 
 
 
