@@ -16,3 +16,4 @@ shows percentage of progress and also write some commands for debugging puropse 
 --> should download in correct folder with original and corect folder names
 -> file manager where we can see all the files which have been uplloaded
 --> feature to delete files from filemanager
+>> in bulk upload some files arent uploading , add a checking mechanism to see if the number of files in a folder and uploaded files number are smae
