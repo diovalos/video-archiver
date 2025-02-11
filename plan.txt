@@ -11,3 +11,8 @@ add option to select folder
 if a file size of video is greater than 8mb then split the video in smaller parts of less than 8mb of equal time duraion and upload it , after uploading delete the splitted videos
  video processing should use half of the available cpu
 shows percentage of progress and also write some commands for debugging puropse when pricessing each video
+
+--> downloading feature
+--> should download in correct folder with original and corect folder names
+-> file manager where we can see all the files which have been uplloaded
+--> feature to delete files from filemanager
