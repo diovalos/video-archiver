@@ -65,3 +65,6 @@ part 2:
 
 - **Debug Logging:**  
   - Prints debug messages to the console at various stages (e.g., uploading files, splitting videos, cleaning up temporary files).
+
+--> add a feature to record the files which didnt upload i.e. status 429  and , later try uploading them again
+-> try uploading files in batch
