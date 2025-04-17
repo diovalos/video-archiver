@@ -1,3 +1,12 @@
+# This application simplifies the process of uploading media, especially videos, to Discord by:
+
+#     Handling file size limits.
+
+#     Keeping track of uploads.
+
+#     Providing a user-friendly interface to manage and download uploaded files.
+    
+
 import os
 import math
 import subprocess
