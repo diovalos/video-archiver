@@ -1,3 +1,4 @@
+#merges all media in a folder , small videos into a single video , merges all photos into a gif , photos and videos into a video , can adjust time for each photo
 import os
 import threading
 import subprocess
