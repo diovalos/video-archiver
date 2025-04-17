@@ -1,3 +1,4 @@
+#uploads videos in a folder in discord using discord webhooks , splits files bigger than 8mb into smaller sectionf of 8mb
 import os
 import math
 import subprocess
