@@ -63,6 +63,10 @@ part 2:
   - A “Stop Upload” button that allows the user to cancel the upload process at any time.  
   - When stopped, any generated temporary video segments are cleaned up immediately.
 
+
+
+C:\Users\Earth\AppData\Local\Packages\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw\LocalState\0\videos
+
 - **Debug Logging:**  
   - Prints debug messages to the console at various stages (e.g., uploading files, splitting videos, cleaning up temporary files).
 
