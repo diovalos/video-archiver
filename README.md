@@ -1,5 +1,6 @@
 # Automate Video Uploading in discord without drag and dropping every single time
 automate video uploading 
+# Code is AI geenrated
 # Wrokflow
 
 part 1:
